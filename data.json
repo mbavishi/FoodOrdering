@@ -1,0 +1,50 @@
+[
+  {
+    "category_id": "1",
+    "category_name": "Appetizers",
+    "description": "Start your meal with our delicious appetizers.",
+    "status": "active"
+  },
+  {
+    "category_id": "2",
+    "category_name": "Main Courses",
+    "description": "Satisfy your hunger with our flavorful main courses.",
+    "status": "active"
+  },
+  {
+    "category_id": "3",
+    "category_name": "Desserts",
+    "description": "Indulge your sweet tooth with our delightful desserts.",
+    "status": "active"
+  },
+  {
+    "category_id": "4",
+    "category_name": "Beverages",
+    "description": "Quench your thirst with our refreshing beverages.",
+    "status": "active"
+  },
+  {
+    "category_id": "5",
+    "category_name": "Wraps",
+    "description": "Start your meal with our delicious appetizers.",
+    "status": "active"
+  },
+  {
+    "category_id": "6",
+    "category_name": "Sandwiches",
+    "description": "Start your meal with our delicious appetizers.",
+    "status": "active"
+  },
+  {
+    "category_id": "7",
+    "category_name": "Noodles",
+    "description": "Start your meal with our delicious appetizers.",
+    "status": "active"
+  },
+  {
+    "category_id": "8",
+    "category_name": "Specials",
+    "description": "Explore our chef's special creations.",
+    "status": "active"
+  }
+]
