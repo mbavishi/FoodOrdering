@@ -119,3 +119,13 @@ a {
   border-bottom: 1px solid #fff !important;
   padding-bottom: 15px;
 }
+.item-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.btn-qty {
+  border: 2px solid #ef4444;
+  border-radius: 5%;
+  display: flex;
+}
