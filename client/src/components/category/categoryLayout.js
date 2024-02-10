@@ -3,7 +3,7 @@ import Card from 'react-bootstrap/Card';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Appetizers1 from '../../assets/images/Appetizers1.jpg';
 import Appetizers2 from '../../assets/images/Appetizers2.jpg';
-// import Appetizers2 from '../../assets/images/Appetizers2.jpg';
+import Appetizers3 from '../../assets/images/Appetizers2.jpg';
 // import Appetizers2 from '../../assets/images/Appetizers2.jpg';
 // import Appetizers2 from '../../assets/images/Appetizers2.jpg';
 // import Appetizers2 from '../../assets/images/Appetizers2.jpg';
