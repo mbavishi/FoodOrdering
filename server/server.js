@@ -1,5 +1,13 @@
-const express = require("express")
+const express = require("express");
 const app = express();
+
+const http = require("http");
+http.createServer((req, res) => {
+    console.log(res);
+    res.write("hello");
+    res.end()
+})
+
 const port = 5000;
 
 app.get("/", (req, res) => {
